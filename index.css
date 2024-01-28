@@ -1,0 +1,19 @@
+button{
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+h1, p{
+    color: white;
+}
+body{
+    background-color: black;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.button2{
+    background-color: red;
+}
